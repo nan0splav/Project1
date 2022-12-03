@@ -53,4 +53,3 @@ time.sleep(1)
 os.system('cls')
 print(str4, end='\r')
 time.sleep(1)
-
